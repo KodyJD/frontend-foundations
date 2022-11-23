@@ -112,7 +112,7 @@ form label {
 form select,
 form input {
   margin-bottom: 20px;
-  width: 160px;
+  width: 100%;
 }
 
 form button {
@@ -168,8 +168,8 @@ footer p {
   form input,
   form select {
     margin-bottom: 0;
+    width: 180px
   }
-
   form label {
     padding-right: 5px;
   }
