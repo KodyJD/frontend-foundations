@@ -101,6 +101,7 @@ form {
 form div {
   display: flex;
   justify-content: space-between;
+  flex-direction: column;
   margin: 11px;
 }
 
