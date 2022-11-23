@@ -162,7 +162,9 @@ footer p {
     justify-content: space-between;
     margin: 5px;
   }
-
+  form button {
+    width: 200px;
+  }
   form input,
   form select {
     margin-bottom: 0;
