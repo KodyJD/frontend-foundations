@@ -163,9 +163,11 @@ footer p {
     margin: 5px;
   }
   form button {
-    width: 200px;
+    width: 150px;
   }
-  form input,
+  form input {
+    width: auto
+  },
   form select {
     margin-bottom: 0;
     width: 180px
@@ -213,3 +215,4 @@ footer p {
     padding-top: 50px;
   }
 }
+
