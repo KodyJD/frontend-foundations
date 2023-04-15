@@ -67,8 +67,9 @@ header {
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 36px;
   color: #fff;
+  text-align: center;
 }
 
 header h1 {
